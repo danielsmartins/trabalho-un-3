@@ -51,8 +51,7 @@ O projeto cumpre todos os requisitos técnicos solicitados:
 
 ## ▶️ Como Compilar e Rodar
 ## Pré-requisitos
-+
-Java JDK 8 ou superior instalado. 
+- Java JDK 8 ou superior instalado. 
 ### Opção 1: Via IntelliJ IDEA (Recomendado)
 
 - Abra a pasta do projeto no IntelliJ.
